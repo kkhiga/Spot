@@ -1,0 +1,53 @@
+html{
+	position: relative;
+	min-height: 100%;
+	overflow-x: hidden; 
+}
+
+body {	
+	background-color: white;
+	font-family: 'Segoe UI', sans-serif;
+	margin-bottom: 80px;
+}
+
+p {
+	margin-left: 2px;
+}
+
+#join {
+	color: #606060;
+}
+
+#community {
+	color: #76C2AF;
+}
+
+#team {
+	background-color: #FFEC8B; 
+	width: 100%;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	min-height: 100px;
+	line-height: 25px;
+	background-color: gold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 300px;
+}
+
+.zoom:hover {
+    cursor: zoom-in;
+}
+
+.sub-head {
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+
+
